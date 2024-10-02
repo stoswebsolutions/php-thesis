@@ -1,10 +1,5 @@
 /* Home Pade Css */
 
-.color {
-    background-color: #98a5e9;
-    color: white;
-}
-
 .color p {
     font-weight: 500;
 }
@@ -43,4 +38,17 @@
 input{
     padding-right: 400px;
     margin-left: 10px;
+}
+.btn{
+    background-color: #98a5e9;
+}
+.btn:hover{
+    color: #98a5e9;
+}
+
+/*theme color*/
+
+.theme{
+    background-color: #98a5e9;
+    color: white;
 }
