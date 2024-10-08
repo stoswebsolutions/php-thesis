@@ -1,0 +1,515 @@
+.search-input {
+    width: 70%;
+    height: 50px;
+    font-size: 14px;
+}
+
+.custom-search-btn {
+    height: 50px;
+    width: 200px;
+    font-size: 14px;
+}
+
+
+
+.custom-btn {
+    background-color: #98a5e9;
+    color: white;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.custom-btn:hover {
+    background-color: #138496;
+}
+
+.footer-btn {
+    background-color: #F0AD4E;
+    color: white;
+    width: 100%;
+}
+
+.footer-btn:hover {
+    background-color: #e0a800;
+}
+
+/* Quick Links */
+.quick-link-btn {
+    background-color: #e9f0fa;
+    color: #007bff;
+    border: none;
+    width: 100%;
+    /* padding: 20px 10px; */
+    text-align: center;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.quick-link-btn:hover {
+    background-color: #d0e1f8;
+}
+
+.quick-link-btn i {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.quick-link-btn p {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.quick-link-container {
+    text-align: center;
+}
+
+/* publication */
+.process-container {
+    border: 2px solid#0d6efd;;
+    /* Border around the whole section */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    /* Background color for contrast */
+}
+
+.process-step {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.circle-icon {
+    background-color: #f1f1f1;
+    border-radius: 50%;
+    padding: 20px;
+    display: inline-block;
+}
+
+.circle-icon i {
+    font-size: 30px;
+    color: #ff7b54;
+}
+
+.process-step p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.process-arrow {
+    font-size: 30px;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+@media (max-width: 768px) {
+    .process-arrow {
+        font-size: 50px;
+    }
+}
+
+/* card section1 */
+
+.card-header {
+    background-color: #00a0ad;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.card-head {
+    background-color: #98a5e9;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.card-body p {
+    font-size: 1rem;
+}
+
+.icon-section {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.icon-section img {
+    margin-right: 10px;
+}
+
+/* publication 2-1 page */
+
+.process-step {
+    text-align: center;
+}
+
+.process-icon {
+    font-size: 48px;
+}
+
+.process-flow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.arrow {
+    font-size: 24px;
+}
+
+.process-container {
+    border: 2px solid #0d6efd;;
+    /* Border around the whole section */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    /* Background color for contrast */
+}
+
+.circle-back {
+    background-color: #f1f1f1;
+    border-radius: 50%;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+/* publication css */
+.cardboard {
+    border: none;
+    /* Optional: to remove card borders */
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+/* publication 2-2 */
+.process-containers {
+    border: 2px solid #e9e0de;
+    /* Border around the whole section */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    /* Background color for contrast */
+
+}
+
+/* 2nd page */
+
+.icon-text {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.step-icons img {
+    width: 80px;
+    height: 80px;
+}
+
+/* .step-container {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        } */
+/* button color */
+
+.buttoncolors {
+    background-color: #edaa4c;
+}
+
+/* logo sizes */
+.logo {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+/* unde card text */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+h5,
+h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+
+
+/* Custom styles to match the bolding exactly as per the image */
+.bold-text {
+    font-weight: bold;
+}
+
+
+/*  Types of Articles invited */
+
+.features-box {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.btn-custom {
+    margin: 5px;
+}
+
+.features {
+    margin-top: 20px;
+}
+
+/*   Benefits of Publishing Paper in IJRAR */
+
+.benefit-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.benefit-icon {
+    font-size: 24px;
+    margin-right: 15px;
+    color: #0d6efd;
+}
+
+
+/* publicationindian page css */
+
+.payment-table th, .payment-table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .highlight {
+    background-color: #f4f4a4;
+    font-weight: bold;
+  }
+  .preferred-link {
+    background-color: #98a5e9;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  .preferred-link:hover {
+    background-color: #0056b3;
+  }
+  .notes {
+    font-size: 12px;
+  }
+
+
+  /* tables 2 */
+  .table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .highlight {
+   
+    font-weight: bold;
+  }
+  .payment-note {
+   
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .option-box {
+    border: 1px solid ;
+    padding: 10px;
+  }
+  .preferred-link {
+    padding: 10px;
+    font-weight: bold;
+  }
+  .highlight-text {
+    color: #98a5e9;
+    font-weight: bold;
+  }
+  .notes {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .option-table td {
+    vertical-align: top;
+    text-align: left;
+  }
+  .option-table .remark {
+    color: #98a5e9;
+    font-weight: bold;
+  }
+
+/* akhil css */
+
+/* Home Pade Css */
+
+.color p {
+    font-weight: 500;
+}
+
+.navbar-expand li a {
+    color: white;
+
+}
+
+.navbar-collapse a {
+    color: white;
+    font-weight: 500;
+}
+
+.hover-home a {
+    text-decoration: none;
+    color: black;
+}
+
+/* .hover-home a:hover{
+    text-decoration: underline;
+} */
+
+/* SubmitPaperOnline CSS */
+
+.home_color{
+    background-color:rgb(232, 225, 225);
+}
+/* .button_color{
+    background-color:rgb(254, 200, 100)
+} */
+/* .button_color:hover{
+    color: orange;
+} */
+
+.card-header {
+    background-color: #98a5e9;
+}
+
+input {
+    padding-right: 400px;
+    margin-left: 10px;
+}
+
+/* button colors */
+
+.btn {
+    background-color: #98a5e9;
+    color: white;
+}
+
+.btn:hover {
+    color: #98a5e9;
+}
+
+
+/*theme color*/
+
+.theme {
+    background-color: #8b9bec;
+    color: white;
+}
+.themetext{
+    color: #8b9bec;
+}
+
+
+/* tabels */
+
+.payment-table th, .payment-table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .highlight {
+    background-color: #f4f4a4;
+    font-weight: bold;
+  }
+  .preferred-link {
+    background-color: #98a5e9;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  .preferred-link:hover {
+    background-color: #0056b3;
+  }
+  .notes {
+    font-size: 12px;
+  }
+
+
+  /* tables 2 */
+  .table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .highlight {
+   
+    font-weight: bold;
+  }
+  .payment-note {
+   
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .option-box {
+    border: 1px solid ;
+    padding: 10px;
+  }
+  .preferred-link {
+    padding: 10px;
+    font-weight: bold;
+  }
+  .highlight-text {
+    color: #98a5e9;
+    font-weight: bold;
+  }
+  .notes {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .option-table td {
+    vertical-align: top;
+    text-align: left;
+  }
+  .option-table .remark {
+    color: #98a5e9;
+    font-weight: bold;
+  }
