@@ -1,8 +1,6 @@
 /* Home Pade Css */
 
-.color p {
-  font-weight: 500;
-}
+
 
 .navbar-expand li a {
   color: white;
@@ -19,9 +17,7 @@
   color: black;
 }
 
-/* .hover-home a:hover{
-    text-decoration: underline;
-} */
+
 
 /* SubmitPaperOnline CSS */
 
@@ -29,12 +25,7 @@
   background-color: rgb(232, 225, 225);
 }
 
-/* .button_color{
-    background-color:rgb(254, 200, 100)
-} */
-/* .button_color:hover{
-    color: orange;
-} */
+
 
 .card-header {
   background-color: #98a5e9;
