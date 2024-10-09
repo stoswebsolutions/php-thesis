@@ -1,22 +1,22 @@
 /* Home Pade Css */
 
 .color p {
-    font-weight: 500;
+  font-weight: 500;
 }
 
 .navbar-expand li a {
-    color: white;
+  color: white;
 
 }
 
 .navbar-collapse a {
-    color: white;
-    font-weight: 500;
+  color: white;
+  font-weight: 500;
 }
 
 .hover-home a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 /* .hover-home a:hover{
@@ -25,8 +25,8 @@
 
 /* SubmitPaperOnline CSS */
 
-.home_color{
-    background-color:rgb(232, 225, 225);
+.home_color {
+  background-color: rgb(232, 225, 225);
 }
 /* .button_color{
     background-color:rgb(254, 200, 100)
@@ -36,101 +36,116 @@
 } */
 
 .card-header {
-    background-color: #98a5e9;
+  background-color: #98a5e9;
 }
 
 input {
-    padding-right: 400px;
-    margin-left: 10px;
+  padding-right: 400px;
+  margin-left: 10px;
 }
 
 /* button colors */
 
 .btn {
-    background-color: #98a5e9;
-    color: white;
+  background-color: #98a5e9;
+  color: white;
 }
 
 .btn:hover {
-    color: #98a5e9;
+  color: #98a5e9;
 }
 
 
 /*theme color*/
 
 .theme {
-    background-color: #8b9bec;
-    color: white;
+  background-color: #8b9bec;
+  color: white;
 }
-.themetext{
-    color: #8b9bec;
+
+.themetext {
+  color: #8b9bec;
 }
 
 
 /* tabels */
 
-.payment-table th, .payment-table td {
-    text-align: center;
-    vertical-align: middle;
-  }
-  .highlight {
-    background-color: #f4f4a4;
-    font-weight: bold;
-  }
-  .preferred-link {
-    background-color: #98a5e9;
-    color: white;
-    padding: 10px;
-    border-radius: 5px;
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    margin-bottom: 10px;
-  }
-  .preferred-link:hover {
-    background-color: #0056b3;
-  }
-  .notes {
-    font-size: 12px;
-  }
+.payment-table th,
+.payment-table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.highlight {
+  background-color: #f4f4a4;
+  font-weight: bold;
+}
+
+.preferred-link {
+  background-color: #98a5e9;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.preferred-link:hover {
+  background-color: #0056b3;
+}
+
+.notes {
+  font-size: 12px;
+}
 
 
-  /* tables 2 */
-  .table th, .table td {
-    text-align: center;
-    vertical-align: middle;
-  }
-  .highlight {
-   
-    font-weight: bold;
-  }
-  .payment-note {
-   
-    padding: 10px;
-    font-size: 14px;
-    font-weight: bold;
-  }
-  .option-box {
-    border: 1px solid ;
-    padding: 10px;
-  }
-  .preferred-link {
-    padding: 10px;
-    font-weight: bold;
-  }
-  .highlight-text {
-    color: #98a5e9;
-    font-weight: bold;
-  }
-  .notes {
-    font-size: 12px;
-    font-weight: bold;
-  }
-  .option-table td {
-    vertical-align: top;
-    text-align: left;
-  }
-  .option-table .remark {
-    color: #98a5e9;
-    font-weight: bold;
-  }
+/* tables 2 */
+.table th,
+.table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.highlight {
+
+  font-weight: bold;
+}
+
+.payment-note {
+
+  padding: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.option-box {
+  border: 1px solid;
+  padding: 10px;
+}
+
+.preferred-link {
+  padding: 10px;
+  font-weight: bold;
+}
+
+.highlight-text {
+  color: #98a5e9;
+  font-weight: bold;
+}
+
+.notes {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.option-table td {
+  vertical-align: top;
+  text-align: left;
+}
+
+.option-table .remark {
+  color: #98a5e9;
+  font-weight: bold;
+}
